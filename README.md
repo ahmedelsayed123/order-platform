@@ -9,6 +9,10 @@ Before running the application, ensure you have the following installed:
 - Maven 3.6 or higher
 - Docker and Docker Compose
 
+## GitHub Repository
+
+[Order Management Platform Repository](https://github.com/ahmedelsayed123/order-platform.git)
+
 ## How to Run the Application
 
 ### Option 1: Run with Docker
