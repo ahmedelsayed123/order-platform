@@ -29,7 +29,7 @@ JDBC URL: jdbc:h2:mem:testdb
 
 Username: sa
 
-Password: password
+Password:
 
 ## 
 Swagger UI: http://localhost:8080/swagger-ui.html
